@@ -1,2 +1,2 @@
 # docker-presto
-[Presto](https://prestodb.io/) docker image
+Docker [Presto](https://prestodb.io/) container
